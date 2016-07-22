@@ -8,8 +8,8 @@ description: >-
   "Knowledge has three degrees: opinion, science, (and) illumination.... (the
   last) is absolute knowledge founded on the identity of the mind knowing with
   the object known." -Plotinus
-datePublished: '2016-07-22T03:35:58.134Z'
-dateModified: '2016-07-22T03:34:53.654Z'
+datePublished: '2016-07-22T03:37:39.797Z'
+dateModified: '2016-07-22T03:36:06.884Z'
 title: ''
 author: []
 via: {}
